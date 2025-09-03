@@ -39,7 +39,7 @@ Polynomial regression with degree=2 was applied, and the model performance was e
 
 **Average R² Score:**  
 `0.629`
-## 📉 Error Analysis
+## Error Analysis
 
 ### Residuals Across Samples
 <img width="587" height="268" alt="image" src="https://github.com/user-attachments/assets/87946c22-7cbc-4114-913f-c6168b9dc7a1" />
