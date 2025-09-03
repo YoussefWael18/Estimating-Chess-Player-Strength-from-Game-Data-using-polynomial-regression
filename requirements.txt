@@ -1,0 +1,13 @@
+# Required Python libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+scipy
+
+Note:
+Make sure that 'utils.py' and 'notebook.ipynb' are in the same project folder,
+since the notebook imports helper functions from utils.py.
